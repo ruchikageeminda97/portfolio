@@ -240,9 +240,9 @@ h3{
 
 }
 
-.Top--section--description{
+.Top--section-description{
     color: var(--darkblue);
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 450;
     line-height: 30px;
     margin-bottom: 10px;

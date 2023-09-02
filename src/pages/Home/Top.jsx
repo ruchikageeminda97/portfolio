@@ -11,8 +11,8 @@ export default function Top() {
                 <br/>
                 Developer
                 </h1>
-                <p className="Top--section--description "  >
-                As an undergraduate pursuing a BSc (Hons) in Computing and Information Systems, I am actively seeking a new internship opportunity within the IT industry.
+                <p className="Top--section-description "  >
+                "Hello, I'm Ruchika, a mobile developer skilled in React Native and React JS. I craft user-centric cross-platform apps with elegance and efficiency. My portfolio showcases my work, so let's collaborate to make your app ideas a reality!"
                 
                 </p>
             </div>
