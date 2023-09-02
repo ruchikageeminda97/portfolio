@@ -1,0 +1,56 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "HTML, CSS, javascript, tailwindcss , React Native, React js"
+        },
+        {
+            "id": "2",
+            "src": "./img/product-chain-1.png",
+            "title": "Back-End",
+            "description": " Nodejs, sql, MongoDB, PHP, Firebase"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI/UX",
+            "description": "Figma , Adobe Xd, Adobe Photoshop, Adobe Illustrator, Premierepro "
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-2.png",
+            "title": "Other",
+            "description": "VS code, Android Studio, Junit , Selenium "
+           
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/Screenshot (30).png",
+            "title": "Ai ChatBot for library",
+            "description": "React Native, javascript, tailwindcss ",
+            "link": "View in Github"
+
+        },
+        {
+            "id": "2",
+            "src": "./img/Screenshot (30).png",
+            "title": "Back-End",
+            "description": " Nodejs, sql, MongoDB, PHP, Firebase",
+            "link": "View in Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/Screenshot (30).png",
+            "title": "UI/UX",
+            "description": "Figma , Adobe Xd, Adobe Photoshop, Adobe Illustrator, Premierepro ",
+            "link": "View in Github"
+        }
+    
+    ]
+
+}
