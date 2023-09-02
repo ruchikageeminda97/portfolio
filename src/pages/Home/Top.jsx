@@ -12,12 +12,13 @@ export default function Top() {
                 Developer
                 </h1>
                 <p className="Top--section--description "  >
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia temporibus maiores vitae!
-                    <br/>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam cum officiis eligendi fugiat aliquid eos.
+                As an undergraduate pursuing a BSc (Hons) in Computing and Information Systems, I am actively seeking a new internship opportunity within the IT industry.
+                
                 </p>
             </div>
-            <button className="btn btn-primary">Go to my web</button>
+            <a href="https://www.linkedin.com/in/ruchikarg97/" target="_blank" rel="noopener noreferrer">
+            <button className="btn btn-primary">Go to my Linkein</button>
+            </a>
             </div>
 
             <div className="Top--section--img">

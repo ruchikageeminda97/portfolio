@@ -32,6 +32,37 @@
             "id": "1",
             "src": "./img/Screenshot (30).png",
             "title": "Ai ChatBot for library",
+            "description": "React Native, javascript, tailwindcss , Python ",
+            "link": "View in Github",
+            "Github": "https://github.com/ruchikageeminda97/Mini_project"
+
+        },
+        {
+            "id": "2",
+            "src": "./img/dads.jpg",
+            "title": "Weather App",
+            "description": " React Native, javascript",
+            "link": "View in Github",
+            "Github": "https://github.com/ruchikageeminda97/My_weatherapp_usingRapidAPI"
+        },
+        {
+            "id": "3",
+            "src": "./img/asd.jpg",
+            "title": "Youtube Clone",
+            "description": "React Native, javascript, tailwindcss ",
+            "link": "View in Github",
+            "Github": "https://github.com/ruchikageeminda97/Youtube_CloneApp"
+        }
+    
+    ],
+
+
+
+    "testimonial": [
+        {
+            "id": "1",
+            "count": "5",
+            "title": "Ai ChatBot for library",
             "description": "React Native, javascript, tailwindcss ",
             "link": "View in Github"
 
@@ -52,5 +83,7 @@
         }
     
     ]
+
+
 
 }

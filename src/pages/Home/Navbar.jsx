@@ -59,9 +59,9 @@ function Navbar() {
 
                     <li><Link onClick={CloseMenu} activeClass="navbar--active-content" spy={true} smooth={true} offset={-70} duration={500} to="MyPortfolio" className="navbar--content">Portfolio</Link></li>
 
-                    <li><Link onClick={CloseMenu} activeClass="navbar--active-content" spy={true} smooth={true} offset={-70} duration={500} to="About" className="navbar--content">AboutMe</Link></li>
+                    <li><Link onClick={CloseMenu} activeClass="navbar--active-content" spy={true} smooth={true} offset={-70} duration={500} to="AboutMe" className="navbar--content">AboutMe</Link></li>
 
-                    <li><Link onClick={CloseMenu} activeClass="navbar--active-content" spy={true} smooth={true} offset={-70} duration={500} to="Testimonials" className="navbar--content">Testimonials</Link></li>
+                    <li><Link onClick={CloseMenu} activeClass="navbar--active-content" spy={true} smooth={true} offset={-70} duration={500} to="Testimonials" className="navbar--content">Images</Link></li>
                 </ul>
             </div>
             <Link onClick={CloseMenu} activeClass="navbar--active-content" spy={true} smooth={true} offset={-70} duration={500} to="Contact" className="btn btn-outline-primary">
