@@ -14,6 +14,9 @@ export default function AboutMe() {
             {/* <p className="Top--section-description">
             Furthermore, my enthusiasm for learning and my capacity to quickly adapt to diverse technology stacks make me a valuable asset. I approach challenges with resilience and enthusiasm, always striving to achieve set goals."
             </p> */}
+             {/* <p className="Top--section-description">
+            Furthermore, my enthusiasm for learning and my capacity to quickly adapt to diverse technology stacks make me a valuable asset. I approach challenges with resilience and enthusiasm, always striving to achieve set goals."
+            </p> */}
           </div>
         </div>
       </section>
